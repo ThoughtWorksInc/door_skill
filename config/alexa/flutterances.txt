@@ -1,0 +1,2 @@
+OpenDoor open [|door|the door]
+OpenDoor somebody['s| is] at the door
